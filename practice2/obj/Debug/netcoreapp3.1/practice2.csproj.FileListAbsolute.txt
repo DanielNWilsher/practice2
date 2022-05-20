@@ -1,0 +1,13 @@
+/Users/danwilsher/Projects/practice2/practice2/bin/Debug/netcoreapp3.1/practice2.deps.json
+/Users/danwilsher/Projects/practice2/practice2/bin/Debug/netcoreapp3.1/practice2.runtimeconfig.json
+/Users/danwilsher/Projects/practice2/practice2/bin/Debug/netcoreapp3.1/practice2.runtimeconfig.dev.json
+/Users/danwilsher/Projects/practice2/practice2/bin/Debug/netcoreapp3.1/practice2.dll
+/Users/danwilsher/Projects/practice2/practice2/bin/Debug/netcoreapp3.1/practice2.pdb
+/Users/danwilsher/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.csproj.AssemblyReference.cache
+/Users/danwilsher/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danwilsher/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.AssemblyInfoInputs.cache
+/Users/danwilsher/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.AssemblyInfo.cs
+/Users/danwilsher/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.csproj.CoreCompileInputs.cache
+/Users/danwilsher/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.dll
+/Users/danwilsher/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.pdb
+/Users/danwilsher/Projects/practice2/practice2/obj/Debug/netcoreapp3.1/practice2.genruntimeconfig.cache
